@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @strongs20
+- 👋 Hi, I’m Samuel Strong
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently studying Computer Science at UCLA
 - 📫 Email me at samuelstrong@ucla.edu
