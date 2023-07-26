@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samuel Strong
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently studying Computer Science at UCLA
 - 📫 Email me at samuelstrong@ucla.edu
 
